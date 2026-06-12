@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![header](https://github.com/farhan11166/farhan11166/blob/main/image.jpeg)
+-->!
+<img src="image.jpeg" width="900" alt="header" />
   
 <samp>
   
