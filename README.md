@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="image2.jpeg" alt="header" />
+<img src="image.jpeg" width="800" alt="header" />
   
 <samp>
   
 <p align="center">
   </3><br>
-  Funny how sometines you just find things.
+  Funny how sometimes you just find things.
 </p>
 
 
