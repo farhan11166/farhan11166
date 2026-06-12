@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->!
-<img src="image.jpeg" width="900" alt="header" />
+-->
+<img src="image.jpeg" width="600" alt="header" />
   
 <samp>
   
