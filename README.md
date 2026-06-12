@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="image.jpeg" width="800" alt="header" />
+<img src="image2.jpeg" alt="header" />
   
 <samp>
   
