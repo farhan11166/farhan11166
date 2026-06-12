@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 <p align="center">
   </3><br>
-  Funny how sometines ypu just find things.
+  Funny how sometines you just find things.
 </p>
 
 
