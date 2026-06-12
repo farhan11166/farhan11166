@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 <p align="center">
   </3><br>
-  I've been lucky enough to avoid the worst of it.
+  Funny how sometines ypu just find things.
 </p>
 
 
