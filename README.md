@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="image.jpeg" width="600" alt="header" />
+<img src="image.jpeg" width="800" alt="header" />
   
 <samp>
   
-</3
-
-I've been lucky enough to avoid the worst of it
+<p align="center">
+  </3><br>
+  I've been lucky enough to avoid the worst of it.
+</p>
 
 
 </samp>
