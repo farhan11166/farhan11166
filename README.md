@@ -6,22 +6,12 @@
 
 <p align="center">
   <a href="https://x.com/farhannitratee" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="35" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/farhannitratee/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="35" />
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhan11166&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&hide_title=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=farhan11166&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
 <br>
