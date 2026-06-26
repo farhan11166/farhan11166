@@ -8,7 +8,8 @@
   <br>
   <br>
   PS. just like you found my profile
+  <br><br>
+  <a href="https://x.com/farhannitratee">x (twitter)</a> | <a href="https://www.linkedin.com/in/farhannitratee/">linkedin</a>
 </p>
-
 
 </samp>
