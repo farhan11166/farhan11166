@@ -10,12 +10,12 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/farhannitratee/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/farhan11166/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=farhan11166&style=flat-square&color=grey&label=visitors" />
 </p>
